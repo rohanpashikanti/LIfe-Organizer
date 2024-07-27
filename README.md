@@ -9,4 +9,4 @@ Manage personal and professional goals, track daily tasks, and document your pro
 ◆ Implementation Notes: Highlight that users can document their progress and implementation details.</br>
 
 
-Url : " https://rohanpashikanti.github.io/CalmCode/ " 
+Url : " https://rohanpashikanti.github.io/Life-Organizer/ " 
